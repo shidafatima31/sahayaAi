@@ -1,0 +1,6 @@
+{
+  "name": "Sahara AI - NHAA 14566 Distress Helpline & Triage System",
+  "description": "AI-powered distress assessment, risk prioritization (SVI), and follow-up tracking system for the NHAA 14566 helpline. AI prioritizes. Humans decide.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

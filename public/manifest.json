@@ -1,0 +1,21 @@
+{
+  "name": "Sahara AI - 14566 Distress Helpline",
+  "short_name": "Sahara AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0d9488",
+  "description": "Smart India Hackathon 2026 - AI-assisted distress triage for NHAA 14566",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
